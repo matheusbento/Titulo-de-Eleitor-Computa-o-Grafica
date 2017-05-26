@@ -1,0 +1,48 @@
+C:\Users\ProBook\Desktop\computer-graphics-examples-master teste\ImUENP\ImUENP.OCR\bin\Debug\ImUENP.OCR.exe.config
+C:\Users\ProBook\Desktop\computer-graphics-examples-master teste\ImUENP\ImUENP.OCR\bin\Debug\x64\liblept172.dll
+C:\Users\ProBook\Desktop\computer-graphics-examples-master teste\ImUENP\ImUENP.OCR\bin\Debug\x64\libtesseract304.dll
+C:\Users\ProBook\Desktop\computer-graphics-examples-master teste\ImUENP\ImUENP.OCR\bin\Debug\x86\liblept172.dll
+C:\Users\ProBook\Desktop\computer-graphics-examples-master teste\ImUENP\ImUENP.OCR\bin\Debug\x86\libtesseract304.dll
+C:\Users\ProBook\Desktop\computer-graphics-examples-master teste\ImUENP\ImUENP.OCR\bin\Debug\tessdata\por.traineddata
+C:\Users\ProBook\Desktop\computer-graphics-examples-master teste\ImUENP\ImUENP.OCR\bin\Debug\AForge.dll
+C:\Users\ProBook\Desktop\computer-graphics-examples-master teste\ImUENP\ImUENP.OCR\bin\Debug\AForge.Imaging.dll
+C:\Users\ProBook\Desktop\computer-graphics-examples-master teste\ImUENP\ImUENP.OCR\bin\Debug\AForge.Math.dll
+C:\Users\ProBook\Desktop\computer-graphics-examples-master teste\ImUENP\ImUENP.OCR\bin\Debug\AForge.Vision.dll
+C:\Users\ProBook\Desktop\computer-graphics-examples-master teste\ImUENP\ImUENP.OCR\bin\Debug\Tesseract.dll
+C:\Users\ProBook\Desktop\computer-graphics-examples-master teste\ImUENP\ImUENP.OCR\bin\Debug\AForge.xml
+C:\Users\ProBook\Desktop\computer-graphics-examples-master teste\ImUENP\ImUENP.OCR\bin\Debug\AForge.Imaging.xml
+C:\Users\ProBook\Desktop\computer-graphics-examples-master teste\ImUENP\ImUENP.OCR\bin\Debug\AForge.Math.xml
+C:\Users\ProBook\Desktop\computer-graphics-examples-master teste\ImUENP\ImUENP.OCR\bin\Debug\AForge.Vision.xml
+C:\Users\ProBook\Desktop\computer-graphics-examples-master teste\ImUENP\ImUENP.OCR\bin\Debug\Tesseract.xml
+C:\Users\ProBook\Desktop\computer-graphics-examples-master teste\ImUENP\ImUENP.OCR\obj\Debug\ImUENP.OCR.csprojResolveAssemblyReference.cache
+C:\Users\ProBook\Desktop\computer-graphics-examples-master teste\ImUENP\ImUENP.OCR\obj\Debug\ImUENP.OCR.FrmMain.resources
+C:\Users\ProBook\Desktop\computer-graphics-examples-master teste\ImUENP\ImUENP.OCR\obj\Debug\ImUENP.OCR.Properties.Resources.resources
+C:\Users\ProBook\Desktop\computer-graphics-examples-master teste\ImUENP\ImUENP.OCR\obj\Debug\ImUENP.OCR.csproj.GenerateResource.Cache
+C:\Users\ProBook\Desktop\computer-graphics-examples-master teste\ImUENP\ImUENP.OCR\obj\Debug\ImUENP.OCR.exe
+C:\Users\ProBook\Desktop\computer-graphics-examples-master teste\ImUENP\ImUENP.OCR\obj\Debug\ImUENP.OCR.pdb
+C:\Users\ProBook\Desktop\computer-graphics-examples-master teste\ImUENP\ImUENP.OCR\bin\Debug\ImUENP.OCR.exe
+C:\Users\ProBook\Desktop\computer-graphics-examples-master teste\ImUENP\ImUENP.OCR\bin\Debug\ImUENP.OCR.pdb
+C:\Users\ProBook\Desktop\titulo de eleitor\ImUENP\ImUENP.OCR\bin\Debug\ImUENP.OCR.exe.config
+C:\Users\ProBook\Desktop\titulo de eleitor\ImUENP\ImUENP.OCR\obj\Debug\ImUENP.OCR.exe
+C:\Users\ProBook\Desktop\titulo de eleitor\ImUENP\ImUENP.OCR\obj\Debug\ImUENP.OCR.pdb
+C:\Users\ProBook\Desktop\titulo de eleitor\ImUENP\ImUENP.OCR\bin\Debug\x64\liblept172.dll
+C:\Users\ProBook\Desktop\titulo de eleitor\ImUENP\ImUENP.OCR\bin\Debug\x64\libtesseract304.dll
+C:\Users\ProBook\Desktop\titulo de eleitor\ImUENP\ImUENP.OCR\bin\Debug\x86\liblept172.dll
+C:\Users\ProBook\Desktop\titulo de eleitor\ImUENP\ImUENP.OCR\bin\Debug\x86\libtesseract304.dll
+C:\Users\ProBook\Desktop\titulo de eleitor\ImUENP\ImUENP.OCR\bin\Debug\tessdata\por.traineddata
+C:\Users\ProBook\Desktop\titulo de eleitor\ImUENP\ImUENP.OCR\bin\Debug\ImUENP.OCR.exe
+C:\Users\ProBook\Desktop\titulo de eleitor\ImUENP\ImUENP.OCR\bin\Debug\ImUENP.OCR.pdb
+C:\Users\ProBook\Desktop\titulo de eleitor\ImUENP\ImUENP.OCR\bin\Debug\AForge.dll
+C:\Users\ProBook\Desktop\titulo de eleitor\ImUENP\ImUENP.OCR\bin\Debug\AForge.Imaging.dll
+C:\Users\ProBook\Desktop\titulo de eleitor\ImUENP\ImUENP.OCR\bin\Debug\AForge.Math.dll
+C:\Users\ProBook\Desktop\titulo de eleitor\ImUENP\ImUENP.OCR\bin\Debug\AForge.Vision.dll
+C:\Users\ProBook\Desktop\titulo de eleitor\ImUENP\ImUENP.OCR\bin\Debug\Tesseract.dll
+C:\Users\ProBook\Desktop\titulo de eleitor\ImUENP\ImUENP.OCR\bin\Debug\AForge.xml
+C:\Users\ProBook\Desktop\titulo de eleitor\ImUENP\ImUENP.OCR\bin\Debug\AForge.Imaging.xml
+C:\Users\ProBook\Desktop\titulo de eleitor\ImUENP\ImUENP.OCR\bin\Debug\AForge.Math.xml
+C:\Users\ProBook\Desktop\titulo de eleitor\ImUENP\ImUENP.OCR\bin\Debug\AForge.Vision.xml
+C:\Users\ProBook\Desktop\titulo de eleitor\ImUENP\ImUENP.OCR\bin\Debug\Tesseract.xml
+C:\Users\ProBook\Desktop\titulo de eleitor\ImUENP\ImUENP.OCR\obj\Debug\ImUENP.OCR.csprojResolveAssemblyReference.cache
+C:\Users\ProBook\Desktop\titulo de eleitor\ImUENP\ImUENP.OCR\obj\Debug\ImUENP.OCR.FrmMain.resources
+C:\Users\ProBook\Desktop\titulo de eleitor\ImUENP\ImUENP.OCR\obj\Debug\ImUENP.OCR.Properties.Resources.resources
+C:\Users\ProBook\Desktop\titulo de eleitor\ImUENP\ImUENP.OCR\obj\Debug\ImUENP.OCR.csproj.GenerateResource.Cache
